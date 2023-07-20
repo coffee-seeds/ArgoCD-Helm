@@ -1,1 +1,3 @@
 # ArgoCD-Helm
+
+ApplicationSet example
